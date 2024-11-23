@@ -11,9 +11,9 @@
 
 - 💬 Ask me about *JavaScript,React,Node.js,AWS, and any general software development questions.*
 
-- 📫 How to reach me *0001patelom@gmail.com*
+- 📫 How to reach me *chirayuvyas117@gmail.com*
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1iFGKM8bKFeKUQwBV0RrW1gcaQHTZwiry/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1CGe9xVFj4F5tW1Z5zdPWRj15pvHmZ_0e/view?pli=1)
 
 - ⚡ Fun fact *I love learning new things.*
 
